@@ -1,0 +1,430 @@
+﻿zip,city,cnty_fips_cd,county,urban_rural_ind,st_cd,st_nm,region_hhs_id,region_hhs_nm,div_cens_id,div_cens_nm,region_cens_id,region_cens_nm,lat_nbr,lon_nbr,x_coord_albers_nbr,y_coord_albers_nbr,
+52002,Dubuque,61,Dubuque,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5106,-90.7504,0.38206058,0.0278168,0
+52042,Edgewood,43,Clayton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.6837,-91.3738,0.37364981,0.02786805,0
+52046,Farley,61,Dubuque,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.443,-91.0095,0.37946686,0.02550536,0
+52134,Chester,89,Howard,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.4852,-92.3758,0.35692664,0.0368763,0
+52142,Fayette,65,Fayette,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8376,-91.8014,0.36767099,0.02853278,0
+52146,Harpers Ferry,5,Allamakee,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.199,-91.1621,0.37279791,0.03741424,0
+52154,Lawler,37,Chickasaw,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1222,-92.1615,0.36167936,0.031717,0
+52162,Postville,5,Allamakee,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.0876,-91.5668,0.36881757,0.03375014,0
+52166,Saint Lucas,65,Fayette,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.0663,-91.9333,0.36468826,0.03177764,0
+52202,Alburnett,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.1528,-91.6265,0.37406865,0.01787111,0
+52206,Atkins,11,Benton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9952,-91.8661,0.37223049,0.01416369,0
+52214,Central City,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.2004,-91.5192,0.37503241,0.01914889,0
+52246,Iowa City,103,Johnson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6523,-91.5632,0.37800315,0.00980535,0
+52254,Lost Nation,45,Clinton,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9729,-90.7953,0.3850432,0.01866752,0
+52302,Marion,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0409,-91.5874,0.37524266,0.0161794,0
+52306,Mechanicsville,31,Cedar,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9058,-91.2542,0.38005159,0.01543968,0
+52310,Monticello,105,Jones,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.2312,-91.1947,0.37865984,0.021133,0
+52314,Mount Vernon,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9273,-91.4295,0.37783711,0.01499924,0
+52338,Swisher,103,Johnson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8423,-91.6902,0.3752853,0.01240058,0
+52342,Toledo,171,Tama,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0037,-92.5727,0.36378527,0.01117901,0
+52346,Van Horne,11,Benton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0083,-92.0928,0.36945868,0.01337175,0
+52358,West Branch,31,Cedar,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6816,-91.3408,0.38046306,0.01130803,0
+52402,Cedar Rapids,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0218,-91.658,0.37452827,0.01554232,0
+52554,Eldon,179,Wapello,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.92,-92.2245,0.37467597,-0.0054142,0
+52590,Seymour,185,Wayne,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.678,-93.1232,0.36524776,-0.0134642,0
+52626,Farmington,177,Van Buren,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.6409,-91.7366,0.38233491,-0.00785187,0
+52722,Bettendorf,163,Scott,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5531,-90.4912,0.39139294,0.01311407,0
+52726,Blue Grass,163,Scott,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5009,-90.7614,0.38852379,0.0109803,0
+52730,Camanche,45,Clinton,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7892,-90.266,0.39250088,0.01809181,0
+52738,Columbus Junction,115,Louisa,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.2728,-91.3671,0.38276777,0.00437692,0
+52742,De Witt,45,Clinton,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.826,-90.539,0.38903236,0.01741959,0
+52778,Wilton,139,Muscatine,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5941,-91.0148,0.38490386,0.01135138,0
+52802,Davenport,163,Scott,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5139,-90.6159,0.39016903,0.01187742,0
+52806,Davenport,163,Scott,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5745,-90.6007,0.38995236,0.01295486,0
+50002,Adair,1,Adair,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5045,-94.6461,0.34187921,-0.00602234,0
+50006,Alden,83,Hardin,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5142,-93.382,0.35107706,0.01627598,0
+50010,Ames,169,Story,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.031,-93.6164,0.35117983,0.00715105,0
+50014,Ames,169,Story,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.025,-93.6681,0.35059796,0.00683186,0
+50022,Atlantic,29,Cass,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4034,-95.0065,0.33808761,-0.00920557,0
+50046,Cambridge,169,Story,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8954,-93.5326,0.35299013,0.00522298,0
+50054,Colfax,99,Jasper,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6836,-93.2458,0.35769659,0.00288637,0
+50058,Coon Rapids,27,Carroll,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8735,-94.6874,0.33926337,0.00004692,0
+50122,Hubbard,83,Hardin,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.3038,-93.3006,0.35330692,0.01308024,0
+50126,Iowa Falls,83,Hardin,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5146,-93.2619,0.35249548,0.01679077,0
+50130,Jewell,79,Hamilton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.3078,-93.6499,0.34913317,0.01167233,0
+50138,Knoxville,125,Marion,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.3153,-93.1011,0.36166147,-0.00267383,0
+50142,Le Grand,127,Marshall,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0065,-92.7756,0.3613536,0.01034134,0
+50150,Lovilia,135,Monroe,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.1335,-92.9125,0.3650425,-0.00489997,0
+50158,Marshalltown,127,Marshall,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.038,-92.9145,0.35950748,0.01026801,0
+50162,Melbourne,127,Marshall,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9307,-93.0808,0.35817733,0.00774841,0
+50170,Monroe,99,Jasper,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5207,-93.1075,0.36034112,0.00074692,0
+50174,Murray,39,Clarke,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.0394,-93.9594,0.35291191,-0.01100063,0
+50210,New Virginia,181,Warren,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.1911,-93.7132,0.35500533,-0.00739886,0
+50226,Polk City,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7741,-93.7104,0.35158147,0.00242758,0
+50250,Stuart,77,Guthrie,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5004,-94.3238,0.34580079,-0.00475898,0
+50266,West Des Moines,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5817,-93.7892,0.35177407,-0.001146,0
+50310,Des Moines,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6256,-93.6742,0.35289794,0.00008046,0
+50314,Des Moines,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.602,-93.6324,0.35354104,-0.00013927,0
+50322,Urbandale,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6314,-93.729,0.35220433,-0.00005421,0
+50430,Corwith,81,Hancock,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.9882,-93.9577,0.34146435,0.02186919,0
+50438,Garner,81,Hancock,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1009,-93.6068,0.34491805,0.0252186,0
+50450,Lake Mills,189,Winnebago,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.4202,-93.5331,0.34387302,0.03090675,0
+50458,Nora Springs,67,Floyd,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1465,-93.0038,0.35170217,0.02851203,0
+50466,Riceville,89,Howard,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.3828,-92.5292,0.35578192,0.03450075,0
+50510,Albert City,21,Buena Vista,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7726,-94.9549,0.33093312,0.01419071,0
+50514,Armstrong,63,Emmet,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.4,-94.4795,0.3329352,0.02671428,0
+50530,Dayton,187,Webster,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.2629,-94.0657,0.34444878,0.00918126,0
+50542,Goldfield,197,Wright,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7569,-93.9265,0.34319541,0.01809357,0
+50554,Laurens,151,Pocahontas,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8444,-94.8495,0.33177284,0.01582731,0
+50574,Pocahontas,151,Pocahontas,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7289,-94.68,0.33444219,0.01455029,0
+50590,Swea City,109,Kossuth,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.3882,-94.3078,0.33501345,0.02720419,0
+50598,Whittemore,109,Kossuth,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.0658,-94.4214,0.3355532,0.02129301,0
+50602,Allison,23,Butler,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7523,-92.7976,0.35652568,0.02276557,0
+50606,Arlington,65,Fayette,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7467,-91.676,0.36971332,0.02756933,0
+50622,Denver,17,Bremer,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.6683,-92.3363,0.36246523,0.02335055,0
+50630,Fredericksburg,37,Chickasaw,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.9548,-92.2064,0.36220188,0.0287171,0
+50634,Gilbertville,13,Black Hawk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4194,-92.2119,0.36547984,0.01972561,0
+50638,Grundy Center,75,Grundy,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.3595,-92.7789,0.3591523,0.01625103,0
+50658,Nashua,37,Chickasaw,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.951,-92.538,0.35834812,0.02721679,0
+50662,Oelwein,65,Fayette,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.6777,-91.9182,0.3673134,0.02534247,0
+50674,Sumner,17,Bremer,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8481,-92.1046,0.36405955,0.02737453,0
+50682,Winthrop,19,Buchanan,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4672,-91.7248,0.37091443,0.02268182,0
+50702,Waterloo,13,Black Hawk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4705,-92.3343,0.36371846,0.02004486,0
+50830,Afton,175,Union,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.0253,-94.1967,0.35010675,-0.01224126,0
+50846,Fontanelle,1,Adair,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.2947,-94.5636,0.34408532,-0.00922674,0
+50854,Mount Ayr,159,Ringgold,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.7105,-94.2335,0.35149074,-0.01770257,0
+51002,Alta,21,Buena Vista,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.6779,-95.309,0.32726273,0.01118339,0
+51034,Mapleton,133,Monona,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.1652,-95.7847,0.32442702,0.0006132,0
+51038,Merrill,149,Plymouth,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7063,-96.3107,0.31517071,0.00779705,0
+51046,Paullina,141,O'Brien,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.9699,-95.6901,0.32110929,0.01465746,0
+51050,Remsen,149,Plymouth,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8078,-95.9632,0.31875916,0.01084974,0
+51054,Sergeant Bluff,193,Woodbury,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.3949,-96.3554,0.31631864,0.0023225,0
+51058,Sutherland,141,O'Brien,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.9791,-95.4637,0.32374023,0.01569159,0
+51106,Sioux City,193,Woodbury,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4675,-96.3523,0.31596382,0.00357099,0
+51230,Alvord,119,Lyon,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.3448,-96.3064,0.31176619,0.01869468,0
+51238,Hospers,167,Sioux,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.0721,-95.8973,0.31809066,0.0155994,0
+51246,Rock Rapids,119,Lyon,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.4274,-96.1714,0.31290987,0.0206095,0
+51250,Sioux Center,167,Sioux,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.0765,-96.1766,0.31475757,0.01461157,0
+51334,Estherville,63,Emmet,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.4032,-94.8253,0.32886543,0.02539251,0
+51338,Everly,41,Clay,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1848,-95.312,0.32438065,0.01977597,0
+51342,Graettinger,147,Palo Alto,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.2381,-94.7505,0.33068858,0.02289149,0
+51346,Hartley,141,O'Brien,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1793,-95.4672,0.32258078,0.01907886,0
+51358,Ruthven,147,Palo Alto,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1305,-94.894,0.32961494,0.02049847,0
+51442,Denison,47,Crawford,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0205,-95.3518,0.33043746,-0.00013875,0
+51450,Lake View,161,Sac,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.3102,-95.0355,0.3325987,0.00603328,0
+51462,Scranton,73,Greene,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0219,-94.55,0.34006022,0.00311734,0
+51466,Wall Lake,161,Sac,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.2588,-95.0913,0.33222218,0.00493922,0
+51510,Carter Lake,155,Pottawattamie,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.2916,-95.9152,0.32764897,-0.01473822,0
+51526,Crescent,155,Pottawattamie,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.3642,-95.8369,0.32820547,-0.01319674,0
+51534,Glenwood,129,Mills,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.0528,-95.736,0.33115303,-0.01808145,0
+51546,Logan,85,Harrison,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6439,-95.785,0.32729697,-0.00824305,0
+51566,Red Oak,137,Montgomery,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.0155,-95.2253,0.33761072,-0.01666004,0
+51570,Shelby,165,Shelby,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.514,-95.4559,0.3320103,-0.00914267,0
+52001,Dubuque,61,Dubuque,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5147,-90.6843,0.38280664,0.02818896,0
+52033,Cascade,61,Dubuque,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.297,-91.0057,0.38045785,0.02309163,0
+52037,Delmar,45,Clinton,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9569,-90.6247,0.38716116,0.01919368,0
+52049,Garnavillo,43,Clayton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8722,-91.2244,0.37418207,0.03168424,0
+52053,Holy Cross,61,Dubuque,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5992,-90.9657,0.37896626,0.02830623,0
+52057,Manchester,55,Delaware,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4849,-91.4532,0.37399232,0.02419381,0
+52069,Preston,97,Jackson,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0523,-90.4003,0.3891776,0.02182526,0
+52101,Decorah,191,Winneshiek,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.3259,-91.7828,0.36479675,0.03678112,0
+52157,Mc Gregor,43,Clayton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.0214,-91.2012,0.37349035,0.03427682,0
+52161,Ossian,191,Winneshiek,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1374,-91.7571,0.36628912,0.03374144,0
+52205,Anamosa,105,Jones,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.1071,-91.2837,0.37840902,0.0186597,0
+52213,Center Point,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.1889,-91.7787,0.37204152,0.01779125,0
+52233,Hiawatha,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0447,-91.6862,0.37404903,0.01579773,0
+52241,Coralville,103,Johnson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.689,-91.5876,0.37747908,0.01030671,0
+52245,Iowa City,103,Johnson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6648,-91.5096,0.37856182,0.01025764,0
+52253,Lisbon,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9161,-91.3814,0.37847869,0.01503123,0
+52301,Marengo,95,Iowa,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7952,-92.0749,0.37100605,0.00988747,0
+52317,North Liberty,103,Johnson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7484,-91.6114,0.37681817,0.01118979,0
+52333,Solon,103,Johnson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8046,-91.5065,0.3777072,0.0126032,0
+52337,Stanwood,31,Cedar,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8909,-91.15,0.38138149,0.01566853,0
+52345,Urbana,11,Benton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.2223,-91.8839,0.37058767,0.01787969,0
+52349,Vinton,11,Benton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.1656,-92.0176,0.3693636,0.01633682,0
+52353,Washington,183,Washington,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.3,-91.6931,0.37868814,0.00333779,0
+52361,Williamsburg,95,Iowa,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6604,-92.0187,0.3725211,0.00788513,0
+52401,Cedar Rapids,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9758,-91.6615,0.37477884,0.01475861,0
+52405,Cedar Rapids,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9811,-91.7134,0.37413007,0.01461341,0
+52501,Ottumwa,179,Wapello,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.0196,-92.4222,0.37166768,-0.00463594,0
+52537,Bloomfield,51,Davis,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.7605,-92.4154,0.37335298,-0.00893924,0
+52553,Eddyville,179,Wapello,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.1553,-92.6367,0.36824042,-0.00331866,0
+52565,Keosauqua,177,Van Buren,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.7354,-91.957,0.37906831,-0.00728476,0
+52577,Oskaloosa,123,Mahaska,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.2907,-92.6461,0.3672951,-0.00109216,0
+52601,Burlington,57,Des Moines,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.8133,-91.119,0.38870061,-0.00211875,0
+52625,Donnellson,111,Lee,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.6475,-91.5632,0.38439436,-0.00694253,0
+52637,Mediapolis,57,Des Moines,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.0077,-91.1493,0.38708313,0.00097263,0
+52641,Mount Pleasant,87,Henry,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.9731,-91.5629,0.38232796,-0.00151676,0
+52653,Wapello,115,Louisa,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.1774,-91.1789,0.385635,0.00365823,0
+52733,Clinton,45,Clinton,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8432,-90.1858,0.39308932,0.01936587,0
+52753,Le Claire,163,Scott,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6038,-90.3616,0.39259615,0.01456605,0
+52761,Muscatine,139,Muscatine,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4276,-91.054,0.3855142,0.00839997,0
+52777,Wheatland,45,Clinton,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8606,-90.8575,0.38503976,0.01651218,0
+52801,Davenport,163,Scott,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5225,-90.5755,0.39059277,0.01220985,0
+50009,Altoona,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6446,-93.4719,0.35521657,0.00126149,0
+50021,Ankeny,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7308,-93.5854,0.35333907,0.00222837,0
+50025,Audubon,9,Audubon,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7407,-94.923,0.33718335,-0.00315806,0
+50033,Bevington,121,Madison,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.3606,-93.7908,0.35306254,-0.00487609,0
+50049,Chariton,117,Lucas,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.0259,-93.305,0.3609405,-0.00841894,0
+50061,Cumming,181,Warren,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.492,-93.7659,0.3525857,-0.00255792,0
+50069,De Soto,49,Dallas,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5332,-94.0132,0.34935988,-0.00290751,0
+50109,Granger,49,Dallas,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7643,-93.8132,0.35040554,0.00182861,0
+50125,Indianola,181,Warren,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.3565,-93.572,0.35573056,-0.00401265,0
+50129,Jefferson,73,Greene,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0136,-94.3764,0.34218938,0.00368919,0
+50161,Maxwell,169,Story,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8752,-93.3956,0.3547502,0.00546608,0
+50169,Mitchellville,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6655,-93.3583,0.35645556,0.00209906,0
+50201,Nevada,169,Story,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0193,-93.4482,0.35325802,0.0076665,0
+50213,Osceola,39,Clarke,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.0329,-93.7664,0.35529658,-0.01028823,0
+50225,Pleasantville,125,Marion,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.3841,-93.2749,0.35915038,-0.00227164,0
+50237,Runnells,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.543,-93.3835,0.35688781,-0.0000686,0
+50249,Stratford,79,Hamilton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.2706,-93.9201,0.34613824,0.00991573,0
+50261,Van Meter,49,Dallas,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5076,-93.9426,0.35036212,-0.00304196,0
+50265,West Des Moines,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5723,-93.7411,0.35240898,-0.00110065,0
+50273,Winterset,121,Madison,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.3363,-94.0248,0.35037514,-0.00627512,0
+50309,Des Moines,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5866,-93.6229,0.35374696,-0.00035807,0
+50313,Des Moines,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6427,-93.6153,0.35350454,0.00061847,0
+50317,Des Moines,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6157,-93.5512,0.35443607,0.00043693,0
+50321,Des Moines,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5506,-93.6633,0.35347465,-0.0011358,0
+50325,Clive,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6105,-93.7839,0.35166749,-0.00063852,0
+50401,Mason City,33,Cerro Gordo,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1501,-93.1999,0.34938773,0.02774597,0
+50421,Belmond,197,Wright,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8479,-93.612,0.3463653,0.02093223,0
+50441,Hampton,69,Franklin,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7451,-93.2074,0.3517475,0.02089941,0
+50461,Osage,131,Mitchell,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.2885,-92.815,0.35303802,0.03169903,0
+50469,Rockwell,33,Cerro Gordo,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.9895,-93.1918,0.35045362,0.0250774,0
+50501,Fort Dodge,187,Webster,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5057,-94.1781,0.34169016,0.01281666,0
+50517,Bancroft,109,Kossuth,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.2935,-94.2149,0.33665351,0.02597809,0
+50525,Clarion,197,Wright,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7338,-93.7317,0.34563248,0.01851068,0
+50529,Dakota City,91,Humboldt,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7215,-94.2016,0.3401509,0.01636555,0
+50533,Eagle Grove,197,Wright,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.6623,-93.9066,0.34398859,0.01657949,0
+50541,Gilmore City,151,Pocahontas,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.721,-94.4439,0.33728537,0.01537018,0
+50569,Otho,187,Webster,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4188,-94.1468,0.34257016,0.01147796,0
+50581,Rolfe,151,Pocahontas,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8342,-94.5382,0.33551483,0.01690357,0
+50585,Sioux Rapids,21,Buena Vista,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8956,-95.1473,0.3279559,0.015514,0
+50597,West Bend,147,Palo Alto,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.9617,-94.4472,0.33585239,0.01942793,0
+50601,Ackley,83,Hardin,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5542,-93.0518,0.35473881,0.01835009,0
+50613,Cedar Falls,13,Black Hawk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.523,-92.4533,0.36199019,0.0204055,0
+50621,Conrad,75,Grundy,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.2307,-92.8829,0.35870756,0.01363985,0
+50629,Fairbank,19,Buchanan,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.6395,-92.054,0.3659604,0.0241046,0
+50641,Hazleton,19,Buchanan,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.6135,-91.9053,0.36786935,0.02432569,0
+50665,Parkersburg,23,Butler,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5726,-92.7792,0.35784316,0.01982713,0
+50669,Reinbeck,75,Grundy,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.3281,-92.6018,0.36144072,0.01649148,0
+50677,Waverly,17,Bremer,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7315,-92.47,0.36050276,0.02382885,0
+50701,Waterloo,13,Black Hawk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.474,-92.3671,0.36331005,0.01996013,0
+50801,Creston,175,Union,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.0646,-94.3706,0.34776082,-0.01230815,0
+50833,Bedford,173,Taylor,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.6692,-94.7172,0.34579958,-0.02042716,0
+50841,Corning,3,Adams,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.996,-94.7459,0.3435794,-0.01502636,0
+50849,Greenfield,1,Adair,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.3032,-94.4479,0.34544048,-0.00860354,0
+51001,Akron,149,Plymouth,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8137,-96.5237,0.31205107,0.00882439,0
+51005,Aurelia,35,Cherokee,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7196,-95.4288,0.3256043,0.01142096,0
+51025,Holstein,93,Ida,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4901,-95.5465,0.3254816,0.00706315,0
+51041,Orange City,167,Sioux,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.006,-96.0608,0.31651503,0.01385047,0
+51053,Schaller,161,Sac,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4985,-95.292,0.3284727,0.00820641,0
+51061,Washta,35,Cherokee,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5753,-95.7196,0.32294221,0.00783576,0
+51101,Sioux City,193,Woodbury,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4952,-96.4001,0.31524152,0.00386151,0
+51105,Sioux City,193,Woodbury,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5043,-96.3847,0.31537697,0.00407495,0
+51109,Sioux City,193,Woodbury,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5327,-96.4809,0.31407164,0.00419484,0
+51201,Sheldon,141,O'Brien,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1837,-95.8501,0.31803501,0.01767884,0
+51237,George,119,Lyon,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.3415,-96.0005,0.31539311,0.01979194,0
+51241,Larchwood,119,Lyon,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.4543,-96.4368,0.30963657,0.0200747,0
+51245,Primghar,141,O'Brien,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.0827,-95.6221,0.32128886,0.01683762,0
+51249,Sibley,143,Osceola,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.4063,-95.7398,0.31810716,0.02188776,0
+51301,Spencer,41,Clay,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1458,-95.1483,0.32653062,0.01975469,0
+51401,Carroll,27,Carroll,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0683,-94.8671,0.33599069,0.00261334,0
+51445,Ida Grove,93,Ida,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.3407,-95.471,0.32721687,0.00482285,0
+51449,Lake City,25,Calhoun,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.2653,-94.734,0.33645867,0.00648581,0
+51453,Lohrville,25,Calhoun,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.2663,-94.5499,0.33865229,0.00725001,0
+51461,Schleswig,47,Crawford,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.1622,-95.4421,0.32855968,0.00190734,0
+51501,Council Bluffs,155,Pottawattamie,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.2501,-95.8771,0.32834179,-0.0152926,0
+51521,Avoca,155,Pottawattamie,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4811,-95.342,0.33357686,-0.00924457,0
+51529,Dunlap,85,Harrison,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8526,-95.6042,0.3283311,-0.0039872,0
+51537,Harlan,165,Shelby,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6504,-95.3164,0.33293863,-0.00627257,0
+51553,Minden,155,Pottawattamie,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4327,-95.5343,0.3315105,-0.0108341,0
+51561,Pacific Junction,129,Mills,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.0289,-95.8025,0.33047003,-0.01875147,0
+51573,Stanton,137,Montgomery,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.9815,-95.1018,0.33931262,-0.01673281,0
+51577,Walnut,155,Pottawattamie,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4752,-95.218,0.33511508,-0.00884599,0
+51601,Shenandoah,145,Page,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.7593,-95.3687,0.33728852,-0.02157946,0
+51653,Tabor,71,Fremont,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.8961,-95.6736,0.33278337,-0.02048994,0
+52003,Dubuque,61,Dubuque,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4627,-90.6879,0.38310499,0.02730771,0
+52031,Bellevue,97,Jackson,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.2661,-90.4619,0.38704379,0.02508726,0
+52035,Colesburg,55,Delaware,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.6508,-91.1903,0.37600689,0.02814644,0
+52043,Elkader,43,Clayton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8525,-91.4101,0.37214424,0.03052227,0
+52079,Zwingle,61,Dubuque,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.29,-90.7075,0.38400549,0.0243458,0
+52151,Lansing,5,Allamakee,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.3555,-91.2317,0.3709835,0.03971365,0
+52159,Monona,43,Clayton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.057,-91.374,0.37125381,0.03409704,0
+52175,West Union,65,Fayette,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.9751,-91.8142,0.36665186,0.03077562,0
+52207,Baldwin,97,Jackson,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0897,-90.8241,0.3839421,0.02047665,0
+52211,Brooklyn,157,Poweshiek,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7496,-92.4449,0.3668778,0.00748283,0
+52223,Delhi,55,Delaware,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4239,-91.3404,0.37570744,0.0236846,0
+52227,Ely,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8988,-91.5791,0.37624529,0.01384556,0
+52327,Riverside,183,Washington,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4835,-91.5764,0.37891979,0.00693,0
+52347,Victor,95,Iowa,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7266,-92.2928,0.36883618,0.00777057,0
+52351,Walford,11,Benton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8786,-91.8337,0.3733508,0.01236084,0
+52403,Cedar Rapids,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9858,-91.6211,0.37519404,0.01510771,0
+52411,Cedar Rapids,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0387,-91.7227,0.37365488,0.01553345,0
+52531,Albia,135,Monroe,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.028,-92.8002,0.36704442,-0.00617418,0
+52571,Moravia,7,Appanoose,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.8816,-92.8336,0.36753371,-0.00877496,0
+52591,Sigourney,107,Keokuk,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.3286,-92.2046,0.37237034,0.00150563,0
+52623,Danville,57,Des Moines,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.8512,-91.3359,0.38584195,-0.00249839,0
+52627,Fort Madison,111,Lee,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.635,-91.3374,0.387208,-0.00610307,0
+52639,Montrose,111,Lee,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.532,-91.4236,0.38682203,-0.00821814,0
+52655,West Burlington,57,Des Moines,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.8282,-91.1766,0.38791029,-0.00213995,0
+52747,Durant,31,Cedar,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6015,-90.9091,0.38611254,0.01196445,0
+52751,Grand Mound,45,Clinton,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8412,-90.6714,0.38736745,0.01705399,0
+52803,Davenport,163,Scott,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5379,-90.5618,0.39065446,0.01252983,0
+52807,Davenport,163,Scott,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5706,-90.5374,0.39072945,0.01318724,0
+50003,Adel,49,Dallas,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6051,-94.0247,0.34879923,-0.00174367,0
+50023,Ankeny,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7264,-93.6246,0.35289472,0.00198785,0
+50035,Bondurant,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7072,-93.4561,0.35503179,0.00238197,0
+50047,Carlisle,181,Warren,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4851,-93.4916,0.35593305,-0.00150553,0
+50071,Dows,197,Wright,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.6562,-93.4981,0.3488534,0.01817836,0
+50075,Ellsworth,79,Hamilton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.3164,-93.5764,0.34995556,0.01212614,0
+50107,Grand Junction,73,Greene,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0306,-94.2335,0.34380241,0.00456569,0
+50111,Grimes,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6854,-93.7878,0.35117738,0.00060658,0
+50115,Guthrie Center,77,Guthrie,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6822,-94.5127,0.34246794,-0.00247066,0
+50123,Humeston,185,Wayne,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.8598,-93.5024,0.35953632,-0.01206448,0
+50131,Johnston,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6771,-93.7245,0.35198748,0.00073441,0
+50135,Kellogg,99,Jasper,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7335,-92.8831,0.36173918,0.00529325,0
+50163,Melcher Dallas,125,Marion,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.2238,-93.2413,0.36052117,-0.00481895,0
+50171,Montezuma,157,Poweshiek,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5852,-92.5321,0.36685093,0.0043445,0
+50207,New Sharon,123,Mahaska,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4585,-92.6497,0.36622072,0.00170343,0
+50211,Norwalk,181,Warren,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4735,-93.6807,0.35372286,-0.00250756,0
+50219,Pella,125,Marion,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.411,-92.9142,0.36333192,-0.00025318,0
+50247,State Center,127,Marshall,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0119,-93.1748,0.35656441,0.00870888,0
+50251,Sully,99,Jasper,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5755,-92.8551,0.36303883,0.00276442,0
+50263,Waukee,49,Dallas,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.601,-93.8644,0.35075441,-0.00113853,0
+50311,Des Moines,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6007,-93.6654,0.35315172,-0.00030137,0
+50315,Des Moines,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5447,-93.619,0.3540432,-0.00104665,0
+50323,Urbandale,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6295,-93.805,0.35130115,-0.00040768,0
+50327,Pleasant Hill,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5899,-93.5017,0.35518533,0.00021407,0
+50423,Britt,81,Hancock,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1026,-93.8045,0.34258879,0.02443005,0
+50435,Floyd,67,Floyd,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1505,-92.7535,0.35460111,0.02964219,0
+50459,Northwood,195,Worth,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.4445,-93.2343,0.34720728,0.0325577,0
+50475,Sheffield,69,Franklin,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8895,-93.2211,0.35071402,0.02327116,0
+50483,Wesley,109,Kossuth,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.0926,-93.9912,0.34045578,0.02349451,0
+50511,Algona,109,Kossuth,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.0719,-94.2266,0.33781008,0.02218482,0
+50535,Early,161,Sac,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4592,-95.1537,0.33034408,0.00808769,0
+50543,Gowrie,187,Webster,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.2794,-94.2965,0.34160061,0.00850784,0
+50563,Manson,25,Calhoun,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5292,-94.5382,0.33727515,0.01174382,0
+50575,Pomeroy,25,Calhoun,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5525,-94.6873,0.33536836,0.01153505,0
+50579,Rockwell City,25,Calhoun,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.397,-94.638,0.33684862,0.00910293,0
+50583,Sac City,161,Sac,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4227,-94.9926,0.33247292,0.00811104,0
+50595,Webster City,79,Hamilton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4626,-93.8232,0.34615645,0.01355707,0
+50603,Alta Vista,37,Chickasaw,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.195,-92.4467,0.35790407,0.03170351,0
+50619,Clarksville,23,Butler,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7874,-92.6663,0.35785281,0.02391884,0
+50627,Eldora,83,Hardin,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.3571,-93.1013,0.35534895,0.0148257,0
+50635,Gladbrook,171,Tama,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.1846,-92.7112,0.36102703,0.01360914,0
+50643,Hudson,13,Black Hawk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.3986,-92.4579,0.36270619,0.01830009,0
+50651,La Porte City,13,Black Hawk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.3228,-92.1942,0.36629171,0.01818613,0
+50659,New Hampton,37,Chickasaw,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.0687,-92.3164,0.36020748,0.03014811,0
+50667,Raymond,13,Black Hawk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4688,-92.2303,0.36495475,0.02047203,0
+50675,Traer,171,Tama,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.1926,-92.4738,0.36379295,0.01477787,0
+50703,Waterloo,13,Black Hawk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5157,-92.3249,0.36354819,0.02084327,0
+50707,Evansdale,13,Black Hawk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.477,-92.2831,0.36428147,0.02037786,0
+50851,Lenox,173,Taylor,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.8914,-94.548,0.34659692,-0.01597155,0
+51003,Alton,167,Sioux,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.9867,-96.0077,0.31725051,0.01372425,0
+51023,Hawarden,167,Sioux,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.9997,-96.4751,0.31163031,0.01217842,0
+51027,Ireton,167,Sioux,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.9554,-96.3274,0.31362447,0.01197847,0
+51031,Le Mars,149,Plymouth,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7952,-96.1718,0.31634462,0.0098387,0
+51035,Marcus,35,Cherokee,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8165,-95.8044,0.32060012,0.01160818,0
+51055,Sloan,193,Woodbury,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.2293,-96.2301,0.31872024,-0.00001897,0
+51103,Sioux City,193,Woodbury,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5072,-96.4322,0.31479224,0.00394439,0
+51247,Rock Valley,167,Sioux,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1999,-96.3034,0.31258614,0.01623598,0
+51331,Arnolds Park,59,Dickinson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.3661,-95.1296,0.32550547,0.02356608,0
+51347,Lake Park,59,Dickinson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.446,-95.3221,0.32279483,0.02417214,0
+51351,Milford,59,Dickinson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.3334,-95.1581,0.32535542,0.02289963,0
+51355,Okoboji,59,Dickinson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.387,-95.1379,0.32528983,0.02388827,0
+51443,Glidden,27,Carroll,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0704,-94.7244,0.33769024,0.00322689,0
+51455,Manning,27,Carroll,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9061,-95.0596,0.33459841,-0.00090934,0
+51463,Templeton,27,Carroll,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9107,-94.9225,0.33622249,-0.00027848,0
+51503,Council Bluffs,155,Pottawattamie,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.257,-95.8128,0.32908903,-0.01492131,0
+51535,Griswold,29,Cass,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.2317,-95.134,0.33750788,-0.01262957,0
+51551,Malvern,129,Mills,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.0027,-95.586,0.33326736,-0.01833183,0
+51555,Missouri Valley,85,Harrison,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5539,-95.887,0.32655367,-0.01017253,0
+51559,Neola,155,Pottawattamie,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4509,-95.6295,0.33025186,-0.01090417,0
+51575,Treynor,155,Pottawattamie,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.2458,-95.6186,0.33152111,-0.01433999,0
+51579,Woodbine,85,Harrison,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7396,-95.7068,0.32771635,-0.00631015,0
+52004,Dubuque,61,Dubuque,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4987,-90.668,0.383102,0.02799798,0
+52036,Delaware,55,Delaware,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4741,-91.3505,0.37526683,0.02447628,0
+52040,Dyersville,61,Dubuque,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4839,-91.1194,0.37791399,0.0256862,0
+52052,Guttenberg,43,Clayton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7686,-91.1026,0.37627032,0.03050664,0
+52060,Maquoketa,97,Jackson,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0833,-90.6681,0.38582147,0.02109225,0
+52068,Peosta,61,Dubuque,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4414,-90.818,0.38172114,0.02635516,0
+52076,Strawberry Point,43,Clayton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.6885,-91.5276,0.37182,0.02725882,0
+52136,Cresco,89,Howard,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.3702,-92.1146,0.36067173,0.03607544,0
+52144,Fort Atkinson,191,Winneshiek,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1408,-91.9383,0.36416066,0.03300252,0
+52172,Waukon,5,Allamakee,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.2691,-91.4832,0.36862892,0.03715284,0
+52208,Belle Plaine,11,Benton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8952,-92.2746,0.36800412,0.01067315,0
+52224,Dysart,171,Tama,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.1672,-92.3044,0.36595783,0.01509561,0
+52228,Fairfax,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9172,-91.7793,0.37375293,0.01324995,0
+52240,Iowa City,103,Johnson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6485,-91.5158,0.37859191,0.0099576,0
+52248,Keota,107,Keokuk,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.3585,-91.9472,0.37527227,0.00316238,0
+52316,North English,95,Iowa,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5193,-92.0849,0.3726142,0.00523002,0
+52324,Palo,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0543,-91.7964,0.37268333,0.0154633,0
+52328,Robins,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0723,-91.664,0.37413664,0.01635843,0
+52332,Shellsburg,11,Benton,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.094,-91.8759,0.37149129,0.01577094,0
+52336,Springville,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0605,-91.4438,0.37681627,0.01715574,0
+52340,Tiffin,103,Johnson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7073,-91.6659,0.37643061,0.01025713,0
+52352,Walker,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.2717,-91.8003,0.37126283,0.01907821,0
+52356,Wellman,183,Washington,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4799,-91.8365,0.37583353,0.0056896,0
+52404,Cedar Rapids,113,Linn,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.9472,-91.6922,0.37459634,0.01414282,0
+52544,Centerville,7,Appanoose,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.7295,-92.8823,0.36786935,-0.01153897,0
+52556,Fairfield,101,Jefferson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.0103,-91.9631,0.37726859,-0.00272403,0
+52632,Keokuk,111,Lee,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.4068,-91.3972,0.38794189,-0.01017839,0
+52656,West Point,111,Lee,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.7248,-91.4529,0.385237,-0.0051449,0
+52728,Buffalo,163,Scott,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4572,-90.7258,0.38923271,0.01042082,0
+52732,Clinton,45,Clinton,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8539,-90.2081,0.39275523,0.01943787,0
+52748,Eldridge,163,Scott,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6599,-90.5709,0.38974564,0.01451244,0
+52768,Princeton,163,Scott,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6813,-90.3516,0.39220261,0.01589859,0
+52772,Tipton,31,Cedar,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7639,-91.1348,0.38238093,0.01362367,0
+52776,West Liberty,139,Muscatine,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5752,-91.2638,0.38206229,0.00988854,0
+52804,Davenport,163,Scott,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5362,-90.6239,0.38992783,0.01221016,0
+50020,Anita,29,Cass,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4471,-94.7624,0.34079965,-0.00747,0
+50028,Baxter,99,Jasper,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.824,-93.1514,0.35797975,0.00565182,0
+50036,Boone,15,Boone,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0639,-93.8814,0.34781897,0.00659168,0
+50044,Bussey,125,Marion,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.2039,-92.8857,0.36493735,-0.00360184,0
+50048,Casey,77,Guthrie,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5085,-94.519,0.34339386,-0.00543108,0
+50056,Colo,169,Story,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0153,-93.3111,0.35491817,0.00818297,0
+50060,Corydon,185,Wayne,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.7592,-93.3205,0.36235397,-0.01296473,0
+50072,Earlham,121,Madison,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.4974,-94.122,0.34825636,-0.00396747,0
+50076,Exira,9,Audubon,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5907,-94.8732,0.33863871,-0.00549395,0
+50112,Grinnell,157,Poweshiek,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7409,-92.7298,0.36352752,0.00608587,0
+50124,Huxley,169,Story,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8962,-93.6041,0.35212964,0.00493332,0
+50140,Lamoni,53,Decatur,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.6209,-93.9402,0.35560577,-0.01796459,0
+50144,Leon,53,Decatur,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.7321,-93.7419,0.35737493,-0.01524368,0
+50156,Madrid,15,Boone,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8747,-93.8148,0.34973359,0.00368204,0
+50160,Martensdale,181,Warren,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.3734,-93.7428,0.35356687,-0.00445666,0
+50208,Newton,99,Jasper,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7001,-93.0478,0.35997039,0.00401791,0
+50212,Ogden,15,Boone,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0397,-94.034,0.34613688,0.00554684,0
+50216,Panora,77,Guthrie,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.7003,-94.3671,0.34411822,-0.00156389,0
+50220,Perry,49,Dallas,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.838,-94.1054,0.34646348,0.00184684,0
+50228,Prairie City,99,Jasper,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5906,-93.2387,0.35834233,0.00135414,0
+50240,Saint Charles,121,Madison,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.2927,-93.7837,0.35354998,-0.00598912,0
+50244,Slater,169,Story,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8765,-93.6792,0.35134758,0.00428396,0
+50248,Story City,169,Story,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.1856,-93.5982,0.350476,0.00983139,0
+50276,Woodward,49,Dallas,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.8559,-93.9192,0.34859285,0.00292684,0
+50312,Des Moines,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5851,-93.6717,0.35316857,-0.00059073,0
+50316,Des Moines,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.6093,-93.5984,0.35390659,0.00012821,0
+50320,Des Moines,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.5393,-93.5824,0.35451607,-0.0009816,0
+50324,Windsor Heights,153,Polk,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.605,-93.7121,0.35256423,-0.00042713,0
+50424,Buffalo Center,189,Winnebago,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.4124,-93.9298,0.33929059,0.02914568,0
+50428,Clear Lake,33,Cerro Gordo,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1373,-93.3837,0.34731415,0.02676053,0
+50436,Forest City,189,Winnebago,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.2664,-93.6396,0.34354753,0.02787335,0
+50452,Latimer,69,Franklin,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7675,-93.3661,0.34974309,0.02060704,0
+50456,Manly,195,Worth,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.2853,-93.2178,0.34836141,0.02994653,0
+50472,Saint Ansgar,131,Mitchell,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.389,-92.9262,0.35112916,0.03291753,0
+50536,Emmetsburg,147,Palo Alto,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.111,-94.684,0.33220027,0.02100372,0
+50540,Fonda,151,Pocahontas,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5887,-94.842,0.33332165,0.01152597,0
+50548,Humboldt,91,Humboldt,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7182,-94.2232,0.33991457,0.01622147,0
+50588,Storm Lake,21,Buena Vista,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.6422,-95.1962,0.32880541,0.01102266,0
+50616,Charles City,67,Floyd,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.0674,-92.6701,0.35608573,0.02860301,0
+50628,Elma,89,Howard,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.2697,-92.4437,0.35747594,0.03296956,0
+50636,Greene,23,Butler,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8921,-92.805,0.35558259,0.0250819,0
+50644,Independence,19,Buchanan,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4692,-91.8968,0.36887892,0.02195019,0
+50648,Jesup,19,Buchanan,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4663,-92.0733,0.3668197,0.02112094,0
+50676,Tripoli,17,Bremer,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.8051,-92.2634,0.36246895,0.02596062,0
+50680,Wellsburg,75,Grundy,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.4413,-92.9386,0.35676329,0.01693719,0
+50864,Villisca,137,Montgomery,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.9684,-94.9838,0.34082972,-0.01647186,0
+51004,Anthon,193,Woodbury,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.3793,-95.8872,0.3220183,0.00385397,0
+51012,Cherokee,35,Cherokee,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.7509,-95.5531,0.32395159,0.01146709,0
+51028,Kingsley,149,Plymouth,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5893,-95.9768,0.31979431,0.00707988,0
+51040,Onawa,133,Monona,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.0267,-96.0926,0.32147821,-0.00293714,0
+51104,Sioux City,193,Woodbury,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5256,-96.4005,0.31507286,0.00437798,0
+51108,Sioux City,193,Woodbury,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,42.5554,-96.364,0.31534912,0.00502407,0
+51240,Inwood,119,Lyon,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.3081,-96.4372,0.3104195,0.01757959,0
+51248,Sanborn,141,O'Brien,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.1872,-95.6567,0.32030007,0.01848064,0
+51360,Spirit Lake,59,Dickinson,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,43.4236,-95.1075,0.32543962,0.02462828,0
+51560,Oakland,155,Pottawattamie,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,41.3126,-95.3974,0.33384574,-0.01232254,0
+51632,Clarinda,145,Page,U,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.739,-95.042,0.34141541,-0.02058977,0
+51640,Hamburg,71,Fremont,R,IA,Iowa,7,Kansas City,4,West North Central,2,Midwest,40.6116,-95.6518,0.33462444,-0.0252251,0
